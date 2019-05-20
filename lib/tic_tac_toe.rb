@@ -110,4 +110,5 @@ def play(board)
     puts "Cats Game!"
   end
   draw?(board)
+  end
 end
